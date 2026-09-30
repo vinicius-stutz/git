@@ -32,7 +32,7 @@ A wiki está organizada nas seguintes páginas:
 | [🚀 Guia Rápido](../../wiki/Guia-de-Referencia-Rapida) | Cheatsheet com os comandos mais usados no dia-a-dia, organizados por contexto |
 | [📖 Comandos](../../wiki/Comandos-Explicados-no-Detalhe) | Explicação aprofundada dos principais comandos com exemplos e contexto de uso |
 | [🌿 Gitflow](../../wiki/Gitflow) | Diagrama e explicação do fluxo de ramificação Gitflow com branches main, develop, feature, release e hotfix |
-| [📦 Git Submodules](../../wiki/Git-Submodules) | Como adicionar, clonar, atualizar e fazer push em submódulos Git |
+| [📦 Submodules](../../wiki/Git-Submodules) | Como adicionar, clonar, atualizar e fazer push em submódulos Git |
 
 ---
 
