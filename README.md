@@ -32,7 +32,7 @@ A wiki está organizada nas seguintes páginas:
 | 🚀 [Guia](../../wiki/Home) | Cheatsheet com os comandos mais usados no dia-a-dia, organizados por contexto |
 | 📖 [Comandos](../../wiki/Comandos-Explicados-no-Detalhe) | Explicação aprofundada dos principais comandos com exemplos e contexto de uso |
 | 🌿 [Gitflow](../../wiki/Gitflow) | Diagrama e explicação do fluxo de ramificação Gitflow com branches main, develop, feature, release e hotfix |
-| 📦 [Submodules](../../wiki/Git-Submodules) | Como adicionar, clonar, atualizar e fazer push em submódulos Git |
+| 📦 [Submodules](../../wiki/Git-Submodule-para-Leigos) | Como adicionar, clonar, atualizar e fazer push em submódulos Git |
 
 ---
 
@@ -41,7 +41,7 @@ A wiki está organizada nas seguintes páginas:
 - **Iniciante?** Comece pelo [Guia de Referência Rápida](../../wiki/Home) para ter uma visão geral dos comandos essenciais.
 - **Quer entender melhor?** Leia os [Comandos Explicados no Detalhe](../../wiki/Comandos-Explicados-no-Detalhe) para compreender o funcionamento interno de cada operação.
 - **Trabalhando em equipe?** Veja o [Gitflow](../../wiki/Gitflow) para entender como organizar branches em projetos colaborativos.
-- **Usando dependências externas?** Confira [Git Submodules](../../wiki/Git-Submodules) para gerenciar repositórios aninhados.
+- **Usando dependências externas?** Confira [Git Submodules](../../wiki/Git-Submodule-para-Leigos) para gerenciar repositórios aninhados.
 
 ---
 
