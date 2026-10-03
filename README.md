@@ -6,15 +6,14 @@ Bem-vindo à minha [wiki](../../wiki) sobre **Git**, disponibilizada publicament
        //////       git commit -m "Funcionou na minha mãquina"
      /       \      __________________________________________
     | (.) (.) |    /
-     \  ___  /  --'
+     \  _|_  /  --'
       |_____|
      /|     |\
     / |     | \
-      |     |
+      |_____|
      /       \
     |         |
-
-   vinici.us.com
+   --         --
 ```
 
 O objetivo desta [wiki](../../wiki) é reunir, de forma organizada e progressiva, os conceitos, comandos e fluxos de trabalho mais importantes do Git, do uso básico ao intermediário.
